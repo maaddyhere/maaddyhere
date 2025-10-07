@@ -1,10 +1,10 @@
 # Hi there, I'm Muqadas  👋
 
 ### About Me
-I'm a second-year Bachelor of Science in Computer Science (BSCS) student at Lahore Garrison University, with a passion for robotics and embedded systems. I thrive on solving complex problems and creating innovative solutions through code.
+I'm final-year Bachelor of Science in Computer Science (BSCS) student at Lahore Garrison University, with a passion for robotics and embedded systems. I thrive on solving complex problems and creating innovative solutions through code.
 
 ### Skills
-- **Programming Languages:** C++, SQL, Assembly,JavaScript
+- **Programming Languages:** C++, SQL, Assembly,JavaScript.OOP,Python,Mongodb,
 - **Development Tools:** Visual Studio Code, SQL Server Management Studio (SSMS)
 - **Fields of Interest:** Robotics, Embedded Systems, Software Development,Web Development.
 
